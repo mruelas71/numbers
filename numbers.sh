@@ -26,4 +26,4 @@ else
     echo -n "Even: "
     seq 2 2 "$number_input" | tr '\n' ' '
     echo
-fi))
+fi
